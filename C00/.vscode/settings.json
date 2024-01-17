@@ -1,0 +1,7 @@
+{
+	"editor.insertSpaces": false,
+	"files.associations": {
+		"unistd.h": "c",
+		"stdio.h": "c"
+	}
+}
